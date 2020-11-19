@@ -1,0 +1,23 @@
+September 2020
+This project is developped by Youssef Mokhbi.
+
+
+Election-Prediction:
+A Keras model to predict who will win Donald Trump or Hillary Clinton using Datasets from twitter. 
+
+
+Datasets:
+Datasets used are in the folder 'data'.
+
+
+
+
+How to Run:
+install library from Requirements.txt
+To execute the code via ( Anaconda Prompt )
+ just run the main.py file ==> It will call the required model for training and testing.
+
+
+
+-----------------------------------------------------------------
+Please contact me if you need any help : mokhbi.youssef@gmail.com
